@@ -14,7 +14,8 @@ function overwriteBestCustomer(){
 }
 
 leastFavoriteCustomer = "joe"
-
+/*
 function changeLeastFavoriteCustomer(){
     return TypeError
 }
+*/
