@@ -13,9 +13,8 @@ function overwriteBestCustomer(){
   bestCustomer = "maybe bob";
 }
 
-leastFavoriteCustomer = "joe"
+const leastFavoriteCustomer = "joe"
 
 function changeLeastFavoriteCustomer(){
      TypeError
 }
-
