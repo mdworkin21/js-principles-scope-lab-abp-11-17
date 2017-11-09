@@ -14,5 +14,5 @@ function overwriteBestCustomer(){
 }
 
 function changeLeastFavoriteCustomer(){
-  TypeError
+    return TypeError
 }
